@@ -1,4 +1,3 @@
-#!/bin/bash
-su betty
-
+:%s/\s\+$//g
+:g/^$/d
 
