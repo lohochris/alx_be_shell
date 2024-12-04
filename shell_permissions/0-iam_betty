@@ -1,3 +1,2 @@
-:%s/\s\+$//g
-:g/^$/d
-
+#!/bin/bash
+su betty
